@@ -1,0 +1,11 @@
+b/debug
+lib/release
+Debug
+*.suo
+*.user
+obj
+bin
+*.exe
+!.paket/paket.bootstrapper.exe
+*.dll
+*.pdb
